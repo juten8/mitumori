@@ -1,0 +1,7 @@
+{
+  "name": "婚礼総合プロデュースお見積り＆進行段取りチェックシート",
+  "description": "★ 一流ホテル監修 ★ 婚礼進行のタスク管理と自動見積もり、松竹梅グレード比較や実物・サイズ規格を直感的に把握できる視覚ナビゲーション搭載総合版チェックシート。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
