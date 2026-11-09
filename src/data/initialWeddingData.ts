@@ -18,7 +18,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '日程・会場決定',
       type: 'sample_showcase',
       overview: '結婚式準備の第一歩。大安や友引などの吉日選定、親族の都合、ホテルの宴会場の空き状況の確認と仮予約手続きの流れです。',
-      heroImage: '/src/assets/images/wedding_chapel_rehearsal_1794173897503.jpg',
+      heroImage: '/images/wedding_chapel_rehearsal_1794173897503.jpg',
       featurePoints: [
         '仮予約期間（通常1週間〜10日間）内にご両親への日程相談を済ませます。',
         '内金（ご予約金：約10万円）の納入により本契約が成立します。',
@@ -44,7 +44,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '新郎新婦衣裳（洋装・和装）',
       type: 'style_comparison',
       overview: '新婦のウェディングドレス・カラードレス・和装（白無垢・色打掛）と、新郎のモダンタキシード・黒羽二重五つ紋付羽織袴のトータルコーディネート。',
-      heroImage: '/src/assets/images/wedding_groom_tuxedo_1794172634227.jpg',
+      heroImage: '/images/wedding_groom_tuxedo_1794172634227.jpg',
       tiers: [
         {
           grade: '梅',
@@ -92,7 +92,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'ブライダルビューティー打合せ',
       type: 'sample_showcase',
       overview: '衣裳が決まり次第、試着写真をもとにヘアメイク・着付けの専属アーティストとイメージのすり合わせを行います。',
-      heroImage: '/src/assets/images/wedding_attire_tiers_1794146031709.jpg',
+      heroImage: '/images/wedding_attire_tiers_1794146031709.jpg',
       featurePoints: [
         'ドレス・和装の首回りや背中の開きに合わせたヘアスタイルの選定。',
         '新郎新婦のヘアメイクリハーサル日程（挙式1ヶ月前頃）の決定。',
@@ -118,7 +118,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '司会進行プロデュース',
       type: 'sample_showcase',
       overview: '一流ホテルの大宴会場で数々の婚礼を成功に導いてきたプロの司会者（MC）。演台での進行、新郎新婦の生い立ち紹介原稿の作成、当日のタイムキープを担当します。',
-      heroImage: '/src/assets/images/wedding_mc_speaker_1794172635432.jpg',
+      heroImage: '/images/wedding_mc_speaker_1794172635432.jpg',
       tiers: [
         {
           grade: '梅',
@@ -167,7 +167,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'ペーパーアイテム（招待状）',
       type: 'tier_comparison',
       overview: '結婚式の第一印象を届ける招待状。格式ある箔押し高級紙招待状と、スマホで出欠回答できるWeb招待状の違いや組み合わせです。',
-      heroImage: '/src/assets/images/wedding_stationery_set_1794172635732.jpg',
+      heroImage: '/images/wedding_stationery_set_1794172635732.jpg',
       tiers: [
         {
           grade: '梅',
@@ -216,7 +216,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '招待状発送・筆耕',
       type: 'sample_showcase',
       overview: '宛名書き（筆耕）と慶事用切手の準備、大安・友引の吉日に郵便局窓口から発送する際のマナーと確認事項です。',
-      heroImage: '/src/assets/images/wedding_stationery_set_1794172635732.jpg',
+      heroImage: '/images/wedding_stationery_set_1794172635732.jpg',
       featurePoints: [
         '毛筆プロによる美しい筆耕または品格あるフォント印刷。',
         '慶事用の寿切手（普通切手はNG）を使用。',
@@ -242,7 +242,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '出欠・名簿管理',
       type: 'sample_showcase',
       overview: '発送から約1ヶ月後の返信締切日に向けた出欠確認。アレルギーの有無やお子様連れ、遠方ゲストの宿泊希望を集計します。',
-      heroImage: '/src/assets/images/wedding_stationery_set_1794172635732.jpg',
+      heroImage: '/images/wedding_stationery_set_1794172635732.jpg',
       featurePoints: [
         '締切日を過ぎても返信がない方へは、電話やLINE等で優しくリマインド。',
         '特定原材料アレルギー（小麦・卵・甲殻類等）を一人ひとりエクセル等に記録。',
@@ -268,7 +268,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '当日ペーパーアイテム・配席',
       type: 'sample_showcase',
       overview: '披露宴会場のテーブル配置（高砂・主賓席・友人席・親族席）と、テーブルに置く金箔押し三つ折り席次表、メニュー表、席札の作成です。',
-      heroImage: '/src/assets/images/wedding_stationery_set_1794172635732.jpg',
+      heroImage: '/images/wedding_stationery_set_1794172635732.jpg',
       featurePoints: [
         '上座（高砂近く＝主賓・上司）から下座（出入口近く＝ご親族・ご両親）の正しい配席マナー。',
         '肩書き・敬称（様・ちゃん・くん）のホテル専任プランナーによる二重チェック。',
@@ -295,7 +295,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '美食・祝宴コース',
       type: 'tier_comparison',
       overview: '一流ホテルの総料理長が贈る至高のコース。前菜からメインの特選牛フィレ肉、オマール海老、祝宴デザートまでの品数・食材グレードと、フリードリンクの比較です。',
-      heroImage: '/src/assets/images/wedding_cuisine_tiers_1794146030721.jpg',
+      heroImage: '/images/wedding_cuisine_tiers_1794146030721.jpg',
       tiers: [
         {
           grade: '梅',
@@ -343,7 +343,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '高砂メインテーブル卓上花・装花',
       type: 'tier_comparison',
       overview: '新郎新婦のメインテーブル（高砂席）を華やかに彩るテーブル花。乾杯シャンパングラスやディナー皿と美しく調和する低重心〜ワイドな生花アレンジメントです。',
-      heroImage: '/src/assets/images/wedding_takasago_flower_table_1794173896789.jpg',
+      heroImage: '/images/wedding_takasago_flower_table_1794173896789.jpg',
       tiers: [
         {
           grade: '梅',
@@ -391,7 +391,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '記録写真・映像制作',
       type: 'sample_showcase',
       overview: '朝のお支度部屋から挙式、披露宴、お見送りまで専属カメラマンが密着撮影。一瞬の感動の表情を逃さず記録します。',
-      heroImage: '/src/assets/images/wedding_photo_albums_1794146031553.jpg',
+      heroImage: '/images/wedding_photo_albums_1794146031553.jpg',
       tiers: [
         {
           grade: '梅',
@@ -439,7 +439,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '記念スタジオ写真・前撮り',
       type: 'size_comparison',
       overview: '当日の緊張とは別に、ゆったりとした時間の中で残す前撮り記念写真。親族集合写真やフォーマルポートレートの「四つ切（大判）」「六つ切（標準）」「八つ切（小ぶり）」の実寸サイズ比較です。',
-      heroImage: '/src/assets/images/wedding_photo_albums_1794146031553.jpg',
+      heroImage: '/images/wedding_photo_albums_1794146031553.jpg',
       sizeSpecs: [
         {
           name: '八つ切り（やつぎり）',
@@ -483,7 +483,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'ブライダルビューティー施術',
       type: 'sample_showcase',
       overview: '朝のメイク室から披露宴のお開きまで専属アーティストが付き添い。感動の涙や汗でも崩れないプロ仕様のスキンケア＆メイクで最高の美しさをキープします。',
-      heroImage: '/src/assets/images/wedding_attire_tiers_1794146031709.jpg',
+      heroImage: '/images/wedding_attire_tiers_1794146031709.jpg',
       featurePoints: [
         '新婦ドレス2着ヘアメイク＋新郎ヘアセット・眉カット。',
         '披露宴中の涙・汗を素早く直すタッチアップアテンド。',
@@ -509,7 +509,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '音響照明ディレクション',
       type: 'sample_showcase',
       overview: '披露宴の感動を高める音響と照明のトータル演出。入場シーンのドラマチックなサビ出しや、手紙朗読時のしっとりとしたピアノ伴奏など、専任オペレーターが音量をミリ単位でコントロールします。',
-      heroImage: '/src/assets/images/wedding_mc_speaker_1794172635432.jpg',
+      heroImage: '/images/wedding_mc_speaker_1794172635432.jpg',
       featurePoints: [
         'BGM使用時の音楽著作権（ISUM）許諾申請をホテル側で代行。',
         '新郎新婦の入場に合わせたピンスポット照明演出。',
@@ -535,7 +535,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'ご親族様・参列者様 着付けサロン',
       type: 'sample_showcase',
       overview: 'ホテル内の専用着付けサロンにて、お母様の最高礼装「黒留袖（金糸刺繍帯）」やご親族様の訪問着・振袖を、熟練の着付け師が手際よく着付け、上品なアップヘアに仕上げます。',
-      heroImage: '/src/assets/images/wedding_family_dressing_1794173896551.jpg',
+      heroImage: '/images/wedding_family_dressing_1794173896551.jpg',
       featurePoints: [
         'お母様の黒留袖（五つ紋・金箔帯・末広）の正確な伝統着付け。',
         'お着物・草履・小物の事前預かり（前日ホテル到着）完全対応。',
@@ -561,7 +561,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '記念品・引出物（ペーパーバッグ＆3品構成）',
       type: 'tier_comparison',
       overview: 'ホテル特製厚手ペーパーバッグ（ショッパー）と、熨斗紙・水引で慶事包装した記念品3品（カタログギフト等のメイン記念品・引菓子・縁起物/プチギフト）の組み合わせです。',
-      heroImage: '/src/assets/images/wedding_hikidemono_gift_1794172634618.jpg',
+      heroImage: '/images/wedding_hikidemono_gift_1794172634618.jpg',
       tiers: [
         {
           grade: '梅',
@@ -609,7 +609,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'キリスト教牧師 事前説教・結婚講座',
       type: 'sample_showcase',
       overview: 'チャペルの礼拝室にて、プロテスタントのキリスト教牧師先生が新郎新婦2名と聖書を前にテーブルを囲み、夫婦の誓いや愛の教えについて温かく説教・カウンセリングを行う実際の様子です。',
-      heroImage: '/src/assets/images/wedding_pastor_counseling_1794173896314.jpg',
+      heroImage: '/images/wedding_pastor_counseling_1794173896314.jpg',
       featurePoints: [
         'プロテスタント牧師による聖書に基づいた結婚の誓い・お説教。',
         '所要時間は約30分〜1時間、新郎新婦2名がゆったりと受講。',
@@ -635,7 +635,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: 'チャペル挙式リハーサル',
       type: 'sample_showcase',
       overview: 'チャペルの祭壇前で、ウエディングドレス姿の新婦とタキシード姿の新郎が、専属コーディネーターの丁寧な指導のもと、入場から指輪交換、誓いの言葉、立ち位置を確認するリハーサル風景です。',
-      heroImage: '/src/assets/images/wedding_chapel_rehearsal_1794173897503.jpg',
+      heroImage: '/images/wedding_chapel_rehearsal_1794173897503.jpg',
       featurePoints: [
         'バージンロードを美しく歩く歩幅と姿勢の確認。',
         'ベールアップや指輪交換時の手の角度と写真映えのコツ。',
@@ -661,7 +661,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '最終人数・発注締切り',
       type: 'sample_showcase',
       overview: 'ホテル宴会部・調理部への最終確定人数の提出。この日をもって料理や引出物の実数発注が締め切られ、最終請求金額が確定します。',
-      heroImage: '/src/assets/images/wedding_guest_table_centerpiece_1794172637240.jpg',
+      heroImage: '/images/wedding_guest_table_centerpiece_1794172637240.jpg',
       featurePoints: [
         '急な体調不良や欠席連絡の最終受付と座席の調整。',
         'アレルギー該当者への個別特別メニューの最終チェック。',
@@ -687,7 +687,7 @@ export const initialWeddingItems: WeddingItem[] = [
       categoryTitle: '最終総合進行管理',
       type: 'sample_showcase',
       overview: '挙式当日の全スタッフ（総支配人・キャプテン・司会者・音響照明オペレーター・専属介添え・着付け師）が共有する分刻みの最終進行台本の完成と持込品の点検です。',
-      heroImage: '/src/assets/images/wedding_mc_speaker_1794172635432.jpg',
+      heroImage: '/images/wedding_mc_speaker_1794172635432.jpg',
       featurePoints: [
         'ウェルカムグッズ、プチギフト、両親への贈呈品のホテル搬入・検品。',
         '披露宴当日の新郎新婦入り時間（挙式3時間前）とタイムスケジュールの確認。',
